@@ -1,0 +1,9 @@
+# INF1636-WAR
+2211055 LIVIA LUTZ DOS SANTOS
+2210275 LUIZA MARCONDES PAES LEME
+1511044 RODRIGO PEROBA DE SOUZA
+
+Localização da main: src/Controller/main.java
+
+Link para vídeo da apresentação: https://drive.google.com/drive/folders/1uczX7V_eiVB23MGIjhK4QChDrUxm_R__
+
